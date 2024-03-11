@@ -1,0 +1,5 @@
+Q1. Write a query to retrieve the names of all salespeople that have an order with Samsonic.
+Q2. Write a query to retrieve the names of all salespeople that do not have any order.
+Q3. Write a query to retrieve the names of salespeople that have 2 or more orders.
+Q4. Write a query to fetch the number and total amount of orders to be delivered to each city.
+Q5. Write a query to count the number of customers linked to each salesperson. 
